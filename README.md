@@ -20,10 +20,8 @@ cd Benjamin-Assistant
 _for installing dependency [npm](https://nodejs.org/en/) is highly recommended _
 
 ```
-npm
+Download node from here -> https://nodejs.org/en/
 ```
-
-_Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)_
 
 
 **Step 3:** Install Dependencies
@@ -40,13 +38,17 @@ pod install
 
 **Step 4:** If Android
 
+_Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)_
+
 ```
 npx react-native run-android
 ```
 
-_Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)_
 
 **Step 5:** If iOS
+
+
+_Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)_
 
 ```
 npx react-native run-ios
