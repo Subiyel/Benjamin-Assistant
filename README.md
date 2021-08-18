@@ -1,5 +1,5 @@
 # Benjamin-Assistant
-A Voice Recognition app that created meeting / send emails via voice command
+A Voice Recognition app that creates events on google calander / send emails via voice commands
 
 
 
